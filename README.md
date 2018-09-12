@@ -1,3 +1,5 @@
+https://github.com/ndxbn/ndxbn へ移管しました。
+
 # emoji
 My Emojis for Slack
 
